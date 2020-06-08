@@ -1,0 +1,26 @@
+{
+  "name": "com-example-hello-world-js-nodejs-express-http-https",
+  "version": "0.0.1",
+  "description": "A hello-world example using express serving over HTTP & HTTPS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-world",
+    "example",
+    "http",
+    "https"
+  ],
+  "repository": {
+    "url": "https://github.com/RobertDiebels/com.example.hello-world.git",
+    "type": "git",
+    "directory": "/js/nodejs/express/http-https"
+  },
+  "author": "Robert Diebels",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.22.0"
+  }
+}
